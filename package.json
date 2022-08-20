@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-annotation-analyzer-for-cjs-to-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon300000/dynamic-annotation-analyzer-for-cjs-to-esm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simon300000/dynamic-annotation-analyzer-for-cjs-to-esm/issues"
+  },
+  "homepage": "https://github.com/simon300000/dynamic-annotation-analyzer-for-cjs-to-esm#readme"
+}
